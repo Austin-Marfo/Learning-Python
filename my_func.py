@@ -54,3 +54,4 @@ def prime_num():
         if p % 2 == 1:
             print(p)
 prime_num()
+jjk
